@@ -1,0 +1,12 @@
+[IP]
+ip=http://119.23.241.154:8080
+
+[FLAG]
+mode=0
+case_id=[1,2,3]
+
+[objectPath]
+path=D:\python\Class17
+
+[CONFIG]
+config={"host":"119.23.241.154","user":"python","password":"python666","port":3306,"database":"future"}
